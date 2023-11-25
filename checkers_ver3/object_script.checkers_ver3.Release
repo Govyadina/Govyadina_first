@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\board_controller.o
+./release\board_widget.o
+./release\game.o
+./release\main_window.o
+./release\board_state.o
+./release\cell.o
+./release\direction.o
+./release\minimax.o
+./release\position.o
+./release\role.o
+./release\segment.o
+./release\moc_board_controller.o
+./release\moc_board_widget.o
+./release\moc_main_window.o
+);

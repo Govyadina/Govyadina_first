@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>app.png</file>
+        <file>cut.png</file>
+        <file>flip.png</file>
+        <file>quit.png</file>
+        <file>board.png</file>
+        <file>make.png</file>
+    </qresource>
+</RCC>

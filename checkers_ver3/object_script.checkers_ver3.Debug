@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\board_controller.o
+./debug\board_widget.o
+./debug\game.o
+./debug\main_window.o
+./debug\board_state.o
+./debug\cell.o
+./debug\direction.o
+./debug\minimax.o
+./debug\position.o
+./debug\role.o
+./debug\segment.o
+./debug\moc_board_controller.o
+./debug\moc_board_widget.o
+./debug\moc_main_window.o
+);
